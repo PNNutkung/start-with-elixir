@@ -4,7 +4,7 @@ defmodule KV do
   """
 
   @doc """
-  Hello world.
+  This is Hello world program. 
 
   ## Examples
 
