@@ -2,6 +2,8 @@
 
 **TODO: Add description**
 
+For better tutorial: https://www.youtube.com/watch?v=pBNOavRoNL0
+
 ## Installation
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed
