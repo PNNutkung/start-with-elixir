@@ -1,6 +1,6 @@
 # KV
 
-**TODO: Add description**
+**My Elixir Tutorial**
 
 For better tutorial: https://www.youtube.com/watch?v=pBNOavRoNL0
 
